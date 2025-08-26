@@ -33,7 +33,7 @@ The GUI includes:
 
 ## 📂 Project Structure
 - `Project_GUI.mlapp` → MATLAB App Designer file (GUI).
-- `ScriptFile.m` → MATLAB script for recording and analyzing audio.
+- `Project_signals.m` → MATLAB script for recording and analyzing audio.
 - `CEN320_Project_Report.pdf` → Full report with design, results, and analysis.
 - `CEN320_BME320_Project_Description_Fall_23_24.docx` → Original project description.
 
@@ -49,5 +49,5 @@ The GUI includes:
 1. Open MATLAB.  
 2. Run the script:
    ```matlab
-   ScriptFile.m
+   Project_signals.m
 
